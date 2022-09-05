@@ -25,7 +25,7 @@ def log_confusion_matrix_image(cm, labels, normalize=False, log_name='confusion_
     else:
         print('Confusion matrix, without normalization')
     print(cm)
-
+#
     plt.figure()
     plt.imshow(cm, interpolation='nearest', cmap=cmap)
     plt.title(title)
