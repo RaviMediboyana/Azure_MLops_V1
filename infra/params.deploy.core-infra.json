@@ -6,7 +6,7 @@
       "value": "igniteCluster"
     },
     "workspaceName": {
-      "value": "demoAzMLWorkspace"
+      "value": "Azure_Mlops_github_V1"
     },
     "DataLakestorageName": {
       "value": "mydlsdemo2"
